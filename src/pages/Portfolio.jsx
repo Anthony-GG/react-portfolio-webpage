@@ -16,7 +16,7 @@ export default function Portfolio() {
             {/* First Row */}
             <div className="project-row">
               <figure>
-                <a href="https://anthony-gg.github.io/portfolio-webpage/">
+                <a href="https://anthonyiacano.netlify.app/">
                   <img src={portfolioImage} alt="a screenshot of the website you are currently on taken via site-shot on 11/21/2023" />
                 </a>
                 <figcaption>PORTFOLIO</figcaption>
