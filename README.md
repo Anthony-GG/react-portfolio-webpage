@@ -27,7 +27,7 @@ Once that step has been taken, you should be good to start the site with 'npm st
 ## Link to Hosted Website
 
 ### Here is a link to the website hosted on the web for your consideration:
-(WIP)
+[Click Here](https://anthonyiacano.netlify.app/)
 
 ## Mockup
 <div style="text-align:center">
